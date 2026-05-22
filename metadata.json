@@ -1,0 +1,6 @@
+{
+  "name": "Gokulan Portfolio",
+  "description": "A premium, light-theme ASCII personal portfolio for Gokulan, a Full-Stack JS and MERN Stack Developer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
