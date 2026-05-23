@@ -3,7 +3,7 @@ import { motion, AnimatePresence } from "motion/react";
 import { ProjectsList } from "../data/projects";
 import {
   PROJECT_CAMPUS_ART,
-  PROJECT_XEROVA_ART,
+  PROJECT_VOLTMEDIA_ART,
   PROJECT_ARDUINO_ART,
 } from "../data/ascii";
 import { Eye, Github, Network, GraduationCap } from "lucide-react";
@@ -19,7 +19,7 @@ export default function Projects() {
       case "campus":
         return PROJECT_CAMPUS_ART;
       case "digital":
-        return PROJECT_XEROVA_ART;
+        return PROJECT_VOLTMEDIA_ART;
       case "arduino":
         return PROJECT_ARDUINO_ART;
       default:
