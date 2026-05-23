@@ -102,7 +102,7 @@ CORE SKILL MATRIX TREE:
 REGISTERED PROJECT DIRECTORIES:
 ==========================================
 - Altus            :: Campus Productivity & Management Hub.
-- Xerova           :: Digital Agency / Academic Support Gateway.
+- VoltMedia        :: Design studio.
 - Anti-Sleep       :: Embedded IoT Driver Fatigue Detection Prototype.
 ==========================================`.trim();
     } else if (normalizedCmd === "gdg") {
@@ -117,8 +117,8 @@ COMMUNITY PROFILE:
       responseText = `
 STATION REGISTRATIONS:
 ==========================================
-- GITHUB     :: https://github.com/gokulan-gkl
-- LINKEDIN   :: https://linkedin.com/in/gokulan-gkl
+- GITHUB     :: https://github.com/rkivln
+- LINKEDIN   :: https://linkedin.com/in/a-gokulan
 - EMAIL      :: gokulan.rkivln@gmail.com
 ==========================================`.trim();
     } else {
@@ -232,20 +232,20 @@ STATION REGISTRATIONS:
                 // EXTERNAL ENTRANCE
               </span>
               <a
-                href="https://github.com/gokulan-gkl"
+                href="https://github.com/rkivln"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="hover:text-zinc-950 text-zinc-500 flex items-center gap-1 transition-colors"
               >
-                <span>C:\&gt; link-to github.org/gokulan-gkl</span>
+                <span>C:\&gt; link-to github.org/rkivln</span>
               </a>
               <a
-                href="https://linkedin.com/in/gokulan-gkl"
+                href="https://linkedin.com/in/a-gokulan"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="hover:text-zinc-950 text-zinc-500 flex items-center gap-1 transition-colors"
               >
-                <span>C:\&gt; link-to linkedin.com/in/gokulan-gkl</span>
+                <span>C:\&gt; link-to linkedin.com/in/a-gokulan</span>
               </a>
               <a
                 href="mailto:gokulan.rkivln@gmail.com"
