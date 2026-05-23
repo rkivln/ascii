@@ -11,21 +11,21 @@ export const ProjectsList: Project[] = [
     year: "2025 - 2026",
     links: {
       github: "https://github.com/gokulan-gkl/altus-campus-hub",
-      demo: "#"
+      demo: "https://altusmates.vercel.app"
     },
     asciiKey: "campus"
   },
   {
     id: "xerova",
-    title: "Xerova Digital Solutions",
-    tagline: "NEXT-GEN DIGITAL AGENCY & ACADEMIC SUPPORT GATEWAY",
-    description: "An agency grade service hub delivering beautiful bespoke web design, high-frequency full-stack applications, and structural academic guidance. Built using premium performance pipelines with optimized client-side state transitions.",
+    title: "VoltMedia by Altus",
+    tagline: "A design & Art studio.",
+    description: "An agency grade service hub delivering beautiful bespoke web design. Built using premium performance pipelines with optimized client-side state transitions.",
     tech: ["React", "Express.js", "Node.js", "MongoDB", "Framer Motion"],
     role: "Founder & Architect",
     year: "2025",
     links: {
-      github: "https://github.com/gokulan-gkl/xerova-platform",
-      demo: "#"
+      github: "https://github.com/rkivln",
+      demo: "https://voltmedia.vercel.app"
     },
     asciiKey: "digital"
   },
